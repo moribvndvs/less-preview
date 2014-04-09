@@ -1,0 +1,14 @@
+{
+  "name": "less-preview",
+  "main": "./lib/less-preview",
+  "version": "0.0.0",
+  "description": "Compile your LESS files into CSS and display it in a preview pane.",
+  "activationEvents": ["less-preview:toggle"],
+  "repository": "https://github.com/HackedByChinese/less-preview",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
